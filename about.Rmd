@@ -1,5 +1,15 @@
 ---
-title: "About me"
+title: "Anais' blog"
+
+Name : Beaumariage Anaïs
+
+Teacher : Ingrid Van Lancker
+
+Group : group 2
+
+Class: Biology Bac 2
+
+Academyc year : 2019-2020
 ---
 
 
