@@ -16,3 +16,15 @@ Academyc year : 2019-2020
 This section also must include: 
 
 - first name/surname, teacher’s name, class name and academic year
+
+title: "Anais' blog"
+
+Name : Beaumariage Anaïs
+
+Teacher : Ingrid Van Lancker
+
+Group : group 2
+
+Class: Biology Bac 2
+
+Academyc year : 2019-2020
