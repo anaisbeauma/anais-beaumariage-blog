@@ -15,22 +15,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Source of the article with publication date and word count
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Introduction
-
-  
-
-# Sourse of the article with publication date and word count
-
-Source of the article : [Sciences news for students](https://www.sciencenewsforstudents.org/article/microplastics-are-blowing-wind) (May, 7, 2019)  
-Word count : 726 words  
+*Source of the article* : [Sciences news for students](https://www.sciencenewsforstudents.org/article/microplastics-are-blowing-wind) (May, 7, 2019)  
+*Word count* : 726 words  
 
 # Vocabulary  
 | Word from the text    | Synonym/ definition    | French translation    |
@@ -50,17 +38,45 @@ Word count : 726 words
 | sample    | specimen    | échantillon    |  
 
 # Analysis table about the study
-
-| Researchers    | Steve Allen ,Deonie Allen ,Vernon R. Phoenix ,Gaël Le Roux ,Pilar Durántez Jiménez ,Anaëlle Simonneau ,Stéphane Binet &Didier Galop     |
-| Published in ? When ? | Nature Geosciences on the 15th April 2019 and Sciences News for students on the 7th May 2019 |
+|     |     |
+| --- | --- |
+|  Researchers   | Steve Allen ,Deonie Allen ,Vernon R. Phoenix ,Gaël Le Roux ,Pilar Durántez Jiménez ,Anaëlle Simonneau ,Stéphane Binet &Didier Galop    |
+| Published in ? When ?    | Nature Geosciences on the 15th April 2019 and Sciences News for students on the 7th May 2019    |
 | General topic    | Microplastic in the air in the French Pyrennes    |
-| Procedure/ what was examined    | Collecting microplastic falling out of the air for five mounts  
-Separate plastic bits  
-Identified them by type, amount and origin|
-| Conclusion/discovery    | Huge travel of microplastic in the wind  
-Similar amount of microplastic in the air of Paris and in mountain  
-Different types of microplastic: polypropylene or PET in Paris and polystyrene or polyethylene in the French Pyrennes  |
+| Procedure/ what was examined    |  - Collecting microplastic falling out of the air for five mounts  - Separate plastic bits  - Identified them by type, amount and origin    |
+| Conclusion/discovery    | - Huge travel of microplastic in the wind  - Similar amount of microplastic in the air of Paris and in mountain  - Different types of microplastic: polypropylene or PET in Paris and polystyrene or polyethylene in the French Pyrennes    |
 | Remaining questions    | Consequences for the environnement and humain health ?    |
 
-# Conclusion
+# Article
 
+## Microplastics are blowing in the wind
+
+![image](https:sciencenewsforstudents.org/sites/default/files/scald-image/041219_cg_microplastics_feat.jpg) 
+
+A **remote** **spot** in the French Pyrenees is getting as many microplastics per day as downtown Paris
+CAROLYN GRAMLING
+MAY 7, 2019 — 6:45 AM EST
+ 
+This part of the Pyrenees mountains in Europe looks remote and clean. But tiny **bits** of plastic fall here every day, scientists are finding.
+G. LE ROUX
+Plastic pollution from cities doesn’t always stay in cities. Tiny bits can migrate on the wind, a new study finds. This **trash** can end up on a remote mountain at least 95 kilometers (59 miles) away. It’s the first proof that microplastics — tiny bits of plastic trash 5 millimeters (0.2 inch) or smaller — are traveling long distances by air.
+ 
+This is a tiny piece of plastic lint. Such threads are created as larger pieces of plastic fabrics break down.  
+S. Allen
+![image 2](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/041219_cg_microplastics_inline1_370.jpg)
+And we’re not talking about just a little plastic. The new findings suggest the rain of plastic bits in remote places may **rival** that in some large cities.
+Researchers from EcoLab in Castanet-Tolosan, France, wanted to know if microplastics tend to travel on the winds. To find out, they **set up** two types of large containers. Each collected microplastics falling out of the air at the Bernadouze weather station. It sits in the Pyrenees Mountains between France and Spain. Scientists visited the site **roughly** once a month for five months. Each time, they took out all the particles that had fallen from the sky. Then they separated out the plastic bits, identified them by type and **tallied** the totals.
+And they found plenty.
+An average of 365 microplastic particles per square meter (10.7 square feet) per day landed at the site. This means that plastic lands high in the mountains at a rate “similar to what’s happening in Paris,” says Deonie Allen. She’s an atmospheric and environmental scientist at EcoLab. Her group shared its findings April 15 in Nature Geoscience.
+The mountain **fallout** is somewhat different
+ 
+These aren’t smokestacks or weird types of grills. The gray tube and white funnel are both devices that capture samples of tiny pollutant particles from the air.
+S. Allen
+![image 3](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/350_microplastic_deposition_samplers.png)
+The mountaintop may have been getting as many plastic bits as Paris. But the size and types of those bits was not the same. Previous studies had looked at plastics falling from the air in Paris and Dongguan, China. In both cities, most particles were **slender** fibers larger than about 100 micrometers. That’s a little thicker than a human hair. The fibers were made of the plastics polypropylene (Pah-lee-PRO-puh-leen) or polyethylene terephthalate (Pah-lee-ETH-eh-leen Tair-eh-THAAL-ayt), also known as PET. Clothing and other fabrics often **shed** these fibers.
+At the mountain site, most plastic bits were smaller than 25 micrometers. This plastic pollution wasn’t from fabric. Instead, it consisted mostly of polystyrene and polyethylene. These plastics are found in many packing materials. Polystyrene, for example, is commonly known as Styrofoam.
+Polystyrene can be degraded by weather. It also can be broken down by ultraviolet waves from the sun — waves invisible to the human eye. The resulting small bits can easily be carried on the wind, the researchers say. Winds and brief **bursts** of intense rain or snow were linked, in fact, with more of these plastics raining down on the mountain.
+The study couldn’t definitely identify the source of the plastics. Instead the scientists used a computer program. They modeled where the wind was coming from and how fast it was blowing when they collected the trash. The plastics traveled at least 95 kilometers (59 miles) to reach the site, the computer model showed. In fact, Allen says, it’s likely that the plastics came from farther away than that. He points out that there are no big cities within 95 kilometers that would have shed those plastic bits. 
+The study confirms that microplastics are everywhere in the environment, says Johnny Gaspéri. He’s an environmental scientist at the Université Paris-Est Créteil. He was not involved in the study.   
+Explainer: What is a computer model?
+So far, the scientists have studied only one mountain site. They want to collect more **samples** from other remote locations. “It’s not just local pollution, or something only happening in cities,” says study coauthor Steve Allen. He is an atmospheric and environmental scientist at EcoLab. Plastic isn’t staying where people put it. “Invisible pollution is transporting its way around the world.”
