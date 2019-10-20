@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Microplastics are blowing in the wind
 
-![image](https:sciencenewsforstudents.org/sites/default/files/scald-image/041219_cg_microplastics_feat.jpg) 
+![image](https://sciencenewsforstudents.org/sites/default/files/scald-image/041219_cg_microplastics_feat.jpg) 
 
 A **remote** **spot** in the French Pyrenees is getting as many microplastics per day as downtown Paris
 CAROLYN GRAMLING
