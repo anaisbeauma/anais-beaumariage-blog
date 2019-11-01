@@ -1,7 +1,7 @@
 ---
 title: "Article 1 : Microplastics are blowing in the wind"
 description: |
-  Hier is my first analysis for my portfolio witch is focussed on microplastic pollution.
+  Here is my first analysis for my portfolio witch is focussed on microplastic pollution.
 author:
   - name: Beaumariage Anaïs
     url: {}
