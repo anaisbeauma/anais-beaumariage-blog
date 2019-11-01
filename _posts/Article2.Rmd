@@ -1,24 +1,19 @@
 ---
-title: "Article 1 : Microplastics are blowing in the wind"
-description: |
-  Here is my first analysis for my portfolio witch is focussed on microplastic pollution.
-author:
-  - name: Beaumariage Anaïs
-    url: {}
-date: 10-20-2019
-output:
-  distill::distill_article:
-    self_contained: false
+title: "Article 2 : Americans consume some 70,000 microplastic particles a year"
+author: "Beaumariage Anaïs"
+date: "11/1/2019"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 # Source of the article with publication date and word count
 
-*Source of the article* : [Sciences news for students](https://www.sciencenewsforstudents.org/article/microplastics-are-blowing-wind) (May, 7, 2019)  
-*Word count* : 726 words  
+*Source of the article* : [Sciences news for students](https://www.sciencenewsforstudents.org/article/americans-consume-some-70000-microplastic-particles-year) (Aug, 23, 2019)  
+*Word count* : 1065 words  
 
 # Vocabulary  
 | Word from the text    | Synonym/ definition    | French translation    |
