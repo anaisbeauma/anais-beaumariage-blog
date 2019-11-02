@@ -1,5 +1,5 @@
 ---
-title: "Article 2 : Americans consume some 70,000 microplastic particles a year"
+title: "'Biodegradable' plastic bags often don't break down"
 author: "Beaumariage Anaïs"
 date: "11/1/2019"
 output: html_document
@@ -12,34 +12,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Source of the article with publication date and word count
 
-*Source of the article* : [Sciences news for students](https://www.sciencenewsforstudents.org/article/americans-consume-some-70000-microplastic-particles-year) (Aug, 23, 2019)  
-*Word count* : 1065 words  
+*Source of the article* : [Sciences news for students](https://www.sciencenewsforstudents.org/article/biodegradable-plastic-bags-often-dont-break-down) (June, 28, 2019)  
+*Word count* : 873 words  
 
 # Vocabulary  
 | Word from the text    | Synonym/ definition    | French translation    |
 | --- | --- | --- |
-|remote     | isolated    | éloigné    |
-| spot    | place    | endroit    |
-| bits    | pieces    | morceaux    |
-| trash    | rubbish    | déchets    |
-| rival    | to be concurrent    | concurrencer    |
-| set up    | configure    | mettre en place    |
-| roughly    | approximately     |  à peu près   |
-| tally    | match    | concorder    |
-| fallout    | consequence    | retombée    |
-| slender    | small    | minces    |
-| shed    | get rid of    | se débarasser    |
-| burst    | sudden rush    | rafale    |
-| sample    | specimen    | échantillon    |  
+|trashed     | rubbished    | jeté    |
+| litter    | rubbish    | ordure    |
+| harm    | make pain    | nuire    |
+| rot    | decay    | pourriture    |
+| readily    | willingly    | volontiers    |
+| claim    | demands    | revendication    |
+| burry    | soak     |  tremper   |
+| chunk    | piece    | morceau    |
+| convenience    | ease    | commodité    |
 
 # Analysis table about the study
 |     |     |
 | --- | --- |
-|  Researchers   | Steve Allen ,Deonie Allen ,Vernon R. Phoenix ,Gaël Le Roux ,Pilar Durántez Jiménez ,Anaëlle Simonneau ,Stéphane Binet &Didier Galop    |
-| Published in ? When ?    | Nature Geosciences on the 15th April 2019 and Sciences News for students on the 7th May 2019    |
-| General topic    | Microplastic in the air in the French Pyrennes    |
-| Procedure/ what was examined    |  - Collecting microplastic falling out of the air for five mounts  - Separate plastic bits  - Identified them by type, amount and origin    |
-| Conclusion/discovery    | - Huge travel of microplastic in the wind  - Similar amount of microplastic in the air of Paris and in mountain  - Different types of microplastic: polypropylene or PET in Paris and polystyrene or polyethylene in the French Pyrennes    |
-| Remaining questions    | Consequences for the environnement and humain health ?    |
+|  Researchers   | Richard Thompson, Imon Napper   |
+| Published in ? When ?    | in Environmental Science and Technology on the 7th May 2019 and in Sciences news for sudents on the 28th June 2019    |
+| General topic    | Biodegradability of plastic bags    |
+| Procedure/ what was examined    |  - Collecting 80 single-use plastic bags made of 4 types of biodegradable plastic  - Submerging them in ocean water, oil and placing them in the breeze, dark box during 3 years  - Measuring how well the plastic had broken down |
+| Conclusion/discovery    | - Most of the bags unbroken   - In the air, broken in small pieces = Microplastic  - Object disappeared, material intact  - Microplastic eaten by microbes and animals or spread in the environment  - None of plastic bags broken in all the environment|
+| Remaining questions    | Consequences for the environment ? How to use fewer plastics bags ? How to change our customs ? How to create better biodegradable plastic bags ?     |
 
 
