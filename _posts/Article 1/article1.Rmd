@@ -4,7 +4,6 @@ description: |
   Here is my first analysis for my portfolio witch is focussed on microplastic pollution.
 author:
   - name: Beaumariage Anaïs
-    url: {}
 date: 10-20-2019
 output:
   distill::distill_article:
