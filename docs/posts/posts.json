@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2019-11-02-nom-de-votre-article/",
+    "path": "posts/Article 2/",
     "title": "Article 2 :'Biodegradable' plastic bags often don't break down",
     "description": "This is my second article. It's focussed on the degradation of plastic bags which means degradation in microplastics.",
     "author": [
@@ -12,10 +12,10 @@
     "date": "2019-11-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-02T14:42:25+01:00"
+    "last_modified": "2019-11-06T15:03:05+01:00"
   },
   {
-    "path": "posts/2019-10-20-nom-de-votre-article/",
+    "path": "posts/Article 1/",
     "title": "Article 1 : Microplastics are blowing in the wind",
     "description": "Here is my first analysis for my portfolio witch is focussed on microplastic pollution.",
     "author": [
@@ -27,6 +27,6 @@
     "date": "2019-10-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-01T17:44:36+01:00"
+    "last_modified": "2019-11-06T15:02:23+01:00"
   }
 ]
