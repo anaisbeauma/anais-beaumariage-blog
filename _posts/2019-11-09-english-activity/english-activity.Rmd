@@ -1,9 +1,25 @@
 ---
-title: "My english activity log"
+title: "My English activity log"
+description: |
+  This section is a summary of my English activity. That is to say : all things I've done in English and my link with this langage.
+author:
+  - name: Beaumariage Anaïs
+    url: {}
+date: 09-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
 
 I often watch videos in Engish on Youtube.
 I read articles on forums and socialnetworkingsites about travel, cooking, decoration,...
 When Iwas in high scool, I read 3 books in English : "In the shadow of the mountain", "Detective work" and "A time to kill".
 I'va watched several documents about Marylin Monroe in English. It was the subject of my essay in high school but I still enjoy watching films about her.
 I went to Greece this summer and I practised my English a lot. Last year, I won a contest from the European Commision to stimulate young people to move through Europe. Me and my friend travelled during one week around Belgium, Netherlands, Dutchland, Czech republic and Austria. We communicated a lot in English and it's one of the most amazing trip in my life !
+
+
