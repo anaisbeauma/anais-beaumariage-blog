@@ -1,0 +1,51 @@
+---
+title: "Article 3 :Microplastic pollution is everywhere. How concerned do we need to be ?"
+description: |
+  This third article is about the microplastic pollution in the marine ecosystem which impact our lives and the animal lives.
+author:
+  - name: Beaumariage Anaïs
+    url: {}
+date: 11-11-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count
+
+*Source of the article* : [BBC Science and environment](https://www.bbc.com/news/science-environment-49798057) (October, 13, 2019)  
+*Word count* : 1253 words  
+
+# Vocabulary  
+| Word from the text    | Synonym/ definition    | French translation    |
+| --- | --- | --- |
+|to seek     | to look for   | chercher    |
+| racing    | make competition    | faire la course    |
+| digging    | excavate    | forrer    |
+| spade    | dig    | bêche    |
+| to pluk    | to take fastly    | arracher    |
+| to swallow    | to gulp    | avaler    |
+| tripper    | tourist     |  touriste   |
+| twine    | string    | ficelle    |
+| seaweed    | alga    | algue    |
+| strand   |  shore   | rivage    |
+|  stream   | creek    | ruisseau    |
+| prisitne    | natural    |  vierge   |
+| starvation    | the fact of not eat    |   famine  |
+
+
+# Analysis table about the study
+|     |     |
+| --- | --- |
+|  Researchers   | Daniela Hodgson, David Morrit, Dr Brandon  |
+| Published in ? When ?    | in BBC sciences and environment on the 13th of October 2019    |
+| General topic    | The increasing number of microplastic and its harming effects on biosphere    |
+| Procedure/ what was examined    |  - Find the amount of microplastic in each organism of the food chain by collecting samples in Great Cumbrae, Scotland. - Discover the effects on the health. - Study the way of microplastic into marine ecosystems - Identify the type of microplastic.  |
+| Conclusion/discovery    | - Worldspreading of microplastic (even in prisitne wilderness) : in oceans, food, animals, sediments, air,... - Increasing amount of microplastic through the years : age of microplastic |
+| Remaining questions    | Effect on the human health ? On the animals ? On economy ?     |
+
+

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-11-article3/",
+    "title": "Article 3 :Microplastic pollution is everywhere. How concerned do we need to be ?",
+    "description": "This third article is about the microplastic pollution in the marine ecosystem which impact our lives and the animal lives.",
+    "author": [
+      {
+        "name": "Beaumariage Anaïs",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-11T13:18:21+01:00"
+  },
+  {
     "path": "posts/Article 2/",
     "title": "Article 2 :'Biodegradable' plastic bags often don't break down",
     "description": "This is my second article. It's focussed on the degradation of plastic bags which means degradation in microplastics.",
@@ -12,7 +27,7 @@
     "date": "2019-11-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-08T08:39:16+01:00"
+    "last_modified": "2019-11-09T09:22:30+01:00"
   },
   {
     "path": "posts/Article 1/",
@@ -27,8 +42,7 @@
     "date": "2019-10-20",
     "categories": [],
     "preview": {},
-<<<<<<< HEAD
-    "last_modified": "2019-11-06T15:22:10+01:00"
+    "last_modified": "2019-11-06T15:22:11+01:00"
   },
   {
     "path": "posts/2019-11-09-english-activity/",
@@ -44,8 +58,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-09T09:21:08+01:00"
-=======
-    "last_modified": "2019-11-06T15:13:21+01:00"
->>>>>>> 50111b54c834cef66d93cd882ee38a321018c8f2
   }
 ]
