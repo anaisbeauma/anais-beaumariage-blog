@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | seaweed    | alga    | algue    |
 | strand   |  shore   | rivage    |
 |  stream   | creek    | ruisseau    |
-| prisitne    | natural    |  vierge   |
+| pristine    | natural    |  vierge   |
 | starvation    | the fact of not eat    |   famine  |
 
 
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Published in ? When ?    | in BBC sciences and environment on the 13th of October 2019    |
 | General topic    | The increasing number of microplastic and its harming effects on biosphere    |
 | Procedure/ what was examined    |  - Find the amount of microplastic in each organism of the food chain by collecting samples in Great Cumbrae, Scotland. - Discover the effects on the health. - Study the way of microplastic into marine ecosystems - Identify the type of microplastic.  |
-| Conclusion/discovery    | - Worldspreading of microplastic (even in prisitne wilderness) : in oceans, food, animals, sediments, air,... - Increasing amount of microplastic through the years : age of microplastic |
+| Conclusion/discovery    | - Worldspreading of microplastic (even in pristine wilderness) : in oceans, food, animals, sediments, air,... - Increasing amount of microplastic through the years : age of microplastic |
 | Remaining questions    | Effect on the human health ? On the animals ? On economy ?     |
 
 
