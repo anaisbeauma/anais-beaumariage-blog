@@ -1,11 +1,15 @@
 ---
-title: "Article 3 :Microplastic pollution is everywhere. How concerned do we need to be ?"
+title: "Article 3 :Microplastics: Seeking the 'plastic score' of the food on our plates"
 description: |
   This third article is about the microplastic pollution in the marine ecosystem which impact our lives and the animal lives.
 author:
   - name: Beaumariage Anaïs
     url: {}
 date: 11-11-2019
+categories: 
+    - Microplastic
+    - Pollution
+preview:
 output:
   distill::distill_article:
     self_contained: false
