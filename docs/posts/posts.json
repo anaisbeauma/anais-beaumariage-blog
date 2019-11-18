@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2019-11-11-article3/",
-    "title": "Article 3 :Microplastic pollution is everywhere. How concerned do we need to be ?",
+    "title": "Article 3 :Microplastics: Seeking the 'plastic score' of the food on our plates",
     "description": "This third article is about the microplastic pollution in the marine ecosystem which impact our lives and the animal lives.",
     "author": [
       {
@@ -10,9 +10,12 @@
       }
     ],
     "date": "2019-11-11",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-18T18:40:39+01:00"
+    "categories": [
+      "Microplastic",
+      "Pollution"
+    ],
+    "preview": "posts/2019-11-11-article3/imageintro.jpg",
+    "last_modified": "2019-11-18T19:39:06+01:00"
   },
   {
     "path": "posts/Article 2/",
@@ -25,9 +28,12 @@
       }
     ],
     "date": "2019-11-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-09T09:22:30+01:00"
+    "categories": [
+      "Microplastic",
+      "Pollution"
+    ],
+    "preview": "posts/Article 2/imageintro2.jpg",
+    "last_modified": "2019-11-18T19:42:26+01:00"
   },
   {
     "path": "posts/Article 1/",
@@ -40,9 +46,12 @@
       }
     ],
     "date": "2019-10-20",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-06T15:22:11+01:00"
+    "categories": [
+      "Microplastic",
+      "Pollution"
+    ],
+    "preview": "posts/Article 1/imageintro1.jpg",
+    "last_modified": "2019-11-18T19:44:26+01:00"
   },
   {
     "path": "posts/2019-11-09-english-activity/",
@@ -55,8 +64,11 @@
       }
     ],
     "date": "2019-09-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-09T09:21:08+01:00"
+    "categories": [
+      "Microplastic",
+      "Pollution"
+    ],
+    "preview": "posts/2019-11-09-english-activity/imageintro3.jpg",
+    "last_modified": "2019-11-18T19:47:37+01:00"
   }
 ]

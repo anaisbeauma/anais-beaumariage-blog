@@ -5,6 +5,10 @@ description: |
 author:
   - name: Beaumariage Anaïs
 date: 11-02-2019
+categories: 
+    - Microplastic
+    - Pollution
+preview: imageintro2.jpg
 output:
   distill::distill_article:
     self_contained: false

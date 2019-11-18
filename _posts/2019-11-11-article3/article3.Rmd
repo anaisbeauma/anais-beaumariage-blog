@@ -9,7 +9,7 @@ date: 11-11-2019
 categories: 
     - Microplastic
     - Pollution
-preview:
+preview: imageintro.jpg
 output:
   distill::distill_article:
     self_contained: false
