@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-11-22-article4/",
+    "title": "Article 4: The biggest source of microplastics in California coastal waters? Car tires",
+    "description": "This fourth article takls about the biggest source of microplastic in California, these effects on animals, the definition of a microplastic and the difficulty to study this subject",
+    "author": [
+      {
+        "name": "Beaumariage Anaïs",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-22",
+    "categories": [
+      "Microplastic",
+      "Pollution"
+    ],
+    "preview": "posts/2019-11-22-article4/imageintro4.jpg",
+    "last_modified": "2019-11-22T21:10:09+01:00"
+  },
+  {
     "path": "posts/2019-11-11-article3/",
     "title": "Article 3 :Microplastics: Seeking the 'plastic score' of the food on our plates",
     "description": "This third article is about the microplastic pollution in the marine ecosystem which impact our lives and the animal lives.",
@@ -51,7 +69,7 @@
       "Pollution"
     ],
     "preview": "posts/Article 1/imageintro1.jpg",
-    "last_modified": "2019-11-18T19:44:26+01:00"
+    "last_modified": "2019-11-22T21:16:36+01:00"
   },
   {
     "path": "posts/2019-11-09-english-activity/",

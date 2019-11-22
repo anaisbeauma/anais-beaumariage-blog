@@ -1,0 +1,48 @@
+---
+title: "Article 4: The biggest source of microplastics in California coastal waters? Car tires"
+description: |
+  This fourth article takls about the biggest source of microplastic in California, these effects on animals, the definition of a microplastic and the difficulty to study this subject
+author:
+  - name: Beaumariage Anaïs
+    url: {}
+date: 11-22-2019
+categories: 
+    - Microplastic
+    - Pollution
+preview: imageintro4.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count
+
+*Source of the article* : [CNN International - Breaking News](https://edition.cnn.com/2019/10/04/us/microplastic-pollution-car-tire-trnd/index.html?fbclid=IwAR38s82VO5BYFmTatyM7Dq2kttBQRjxidJZw6pX3q3ac5lRA2iFQdBilMu8) (October, 05, 2019)  
+*Word count* : 451 words  
+
+# Vocabulary  
+| Word from the text    | Synonym/ definition    | French translation    |
+| --- | --- | --- |
+| tire     | tyre   | pneu    |
+| teamed    | worked together    | faire équipe    |
+| monitoring    | check up    | surveillance    |
+| seemingly    | apparently    | apparemment    |
+| baseline    | base reference    | base de référence    |
+| seal    | walrus    | phoque    |
+
+
+# Analysis table about the study
+|     |     |
+| --- | --- |
+|  Researchers   | The San Francisco Bay Microplastic Project, the National oceanic and Atmospheric Administration (NOAA) and the 5 Gyres Institute |
+| Published in ? When ?    | in CNN International - Breaking News on the 5th of October 2019    |
+| General topic    | The biggest source of microplastic in California coastal waters    |
+| Procedure/ what was examined    |  -  Find and examine microplastic from stomachs of marine organisms and in ocean water  - Create a baseline for future monitoring and fix standards for sample |
+| Conclusion/discovery    | - 70% of climate cooling is due to fossil-fuel emissions  - Biggest source of microplastic pollution in California's coastal waters :are tires  - 7 trillion piecies of microplastics washed into the San Francisco Bay each year  - Harming impacts on sea tutles, whales, fish, seals, seabirds |
+| Remaining questions    | Do these contaminants transfer though the food chain ? How to study more easily microplastic ?    |
+
+
