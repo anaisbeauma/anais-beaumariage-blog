@@ -1,6 +1,7 @@
 ---
 title: "Article 5 : Microplastic Pollution Found in Snow in the Remotest Corners of the World "
-description: | Five article  : Researchers discovered microplastic pollutants in snow located in the Arctic and the Alps.
+description: | 
+  Five article  : Researchers discovered microplastic pollutants in snow located in the Arctic and the Alps.
   
 author:
   - name: Beaumariage Anaïs
@@ -21,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Source of the article with publication date and word count
 
-*Source of the article* : [Interesting ingeenering](https://amp.interestingengineering.com/microplastic-pollution-found-in-snow-in-the-remotest-corners-of-the-world?fbclid=IwAR2BrdWO-8u270Y_DJlmE4D62FTyrOmNFEJ1iQw4lek5HkXlU7JUg7WgJFw) (August, 16, 2019)  
+*Source of the article* : [Interesting ingeneering](https://amp.interestingengineering.com/microplastic-pollution-found-in-snow-in-the-remotest-corners-of-the-world?fbclid=IwAR2BrdWO-8u270Y_DJlmE4D62FTyrOmNFEJ1iQw4lek5HkXlU7JUg7WgJFw) (August, 16, 2019)  
 *Word count* : 579 words  
 
 # Vocabulary  
@@ -31,18 +32,20 @@ knitr::opts_chunk$set(echo = FALSE)
 | motion    | movement    | mouvement    |
 | drifting ice floes    | floatting ice    | glaces flottantes    |
 | rubber    | eraser    | gomme    |
-| baseline    | base reference    | base de référence    |
-| seal    | walrus    | phoque    |
+| snowmobile    | car who ride in the ice    | motoneige    |
+| tapping    | exploit    | exploiter    |
+| dust    | dirt    | poussière    |
+| tapping    | exploit    | exploiter    |
 
 
 # Analysis table about the study
 |     |     |
 | --- | --- |
 |  Researchers   |Donna Fuscaldo,  Alfred Wegener Institute and the Swiss WSL Institute for Snow and Avalanche Research,  Dr. Melanie Bergmann and Dr. Gunnar Gerdts  |
-| Published in ? When ?    | in  Science Advances    |
-| General topic    | The biggest source of microplastic in California coastal waters    |
-| Procedure/ what was examined    |  -  Find and examine microplastic from stomachs of marine organisms and in ocean water  - Create a baseline for future monitoring and fix standards for sample |
-| Conclusion/discovery    | - 70% of climate cooling is due to fossil-fuel emissions  - Biggest source of microplastic pollution in California's coastal waters :are tires  - 7 trillion piecies of microplastics washed into the San Francisco Bay each year  - Harming impacts on sea tutles, whales, fish, seals, seabirds |
-| Remaining questions    | Do these contaminants transfer though the food chain ? How to study more easily microplastic ?    |
+| Published in ? When ?    | in  Science Advances and in Interesting ingeneering on the 16th August 2019   |
+| General topic    | The extend of microplastic in the environment    |
+| Procedure/ what was examined    |  - Collecting samples of snow usaing a variety of methods   - Determine the type of microplastic by using a infrared spectroscopy   |
+| Conclusion/discovery    | - High concentration of microplastic  animals, oceans, Artic, mountains, even in remote areas  - Microplastics in Arctic from nitrile rubber, acrylates and paint  - Highest concentration in rural road in Bavaria, followed by snow in Arctic  - Higher concentration in the snow than in dust deposits   |
+| Remaining questions    |  Impact of microplastics on the environment and health of people ?  How much microplastics we're inhaling ?   |
 
 
