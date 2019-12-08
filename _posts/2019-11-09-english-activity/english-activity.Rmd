@@ -7,8 +7,7 @@ author:
     url: {}
 date: 09-01-2019
 categories: 
-    - Microplastic
-    - Pollution
+    
 preview: imageintro3.jpg
 output:
   distill::distill_article:
@@ -20,10 +19,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-I often watch videos in Engish on Youtube.
-I read articles on forums and socialnetworkingsites about travel, cooking, decoration,...
-When Iwas in high scool, I read 3 books in English : "In the shadow of the mountain", "Detective work" and "A time to kill".
-I'va watched several documents about Marylin Monroe in English. It was the subject of my essay in high school but I still enjoy watching films about her.
-I went to Greece this summer and I practised my English a lot. Last year, I won a contest from the European Commision to stimulate young people to move through Europe. Me and my friend travelled during one week around Belgium, Netherlands, Dutchland, Czech republic and Austria. We communicated a lot in English and it's one of the most amazing trip in my life !
+I often watch videos in English on Youtube.  
+
+I read articles on forums and socialnetworkingsites about travel, cooking, decoration,...  
+
+I've read 3 books in English : "In the shadow of the mountain", "Detective work" and "A time to kill".  
+
+I've watched several documents about Marylin Monroe in English. It was the subject of my essay in high school but I still enjoy watching films about her.  
+
+I went to Greece this summer and I practised my English a lot. Last year, I won a contest from the European Commision to stimulate young people to move through Europe. My friend and I travelled during one week around Belgium, Netherlands, Dutchland, Czech republic and Austria. We communicated a lot in English and it's one of the most amazing trip in my life !  
+
+I've two applications to improve my english on my phone : Duolingo and Memrise. I often do exercies on it.
 
 
