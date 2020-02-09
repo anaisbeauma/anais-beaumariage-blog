@@ -1,0 +1,52 @@
+---
+title: "Article 6 : Microplastic pollution found in deep sediments on the ocean floor"
+description: |
+  This first article from 2020 talks about the microplastic found in sediments from the China’s Beibu Gulf due to the industrialization and overfishing.
+author:
+  - name: Beaumariage Anaïs
+    url: {}
+date: 02-09-2020
+categories:
+  - Microplastic
+  - Pollution
+  - Ocean
+  
+preview: imageintro6.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Source of the article with publication date and word count
+
+*Source of the article* : [SciTechDaily](https://scitechdaily.com/microplastic-pollution-found-in-deep-sediments-on-the-ocean-floor/) (January, 29, 2020)  
+*Word count* : 426 words  
+
+# Vocabulary  
+| Word from the text    | Synonym/ definition    | French translation    |
+| --- | --- | --- |
+| raft     | large number   | radeau    |
+| discarded    | thrown    | jeté    |
+| gear    | equipment    | matériel    |
+| layer    | diaper    | couche    |
+| net    | tenderloin    | filet    |
+| rope    | string   | corde    |
+| pots   | crates    | casiers   |
+
+
+# Analysis table about the study
+|     |     |
+| --- | --- |
+|  Researchers   | Baoming Xue, Linlin Zhang, Ruilong Li, Yinghui Wang, Jing Guo, Kefu Yu and Shaopeng Wang and their colleagues from American Chemical Society  |
+| Published in ? When ?    | in ACS’ Environmental Science & Technology on the 29th of January 2020   |
+| General topic    | The microplastics in the sediments of the China’s Beibu Gulf due to the overfishing    |
+| Procedure/ what was examined    |  - Collecting 52 sediment samples from Beibu Gulf and adjacent rivers in July 2017   - Separate them and counting under a microscope   |
+| Conclusion/discovery    | - Most of the particles made of polypropylene or polyethylene (widely used in fishing)   - Strong correlation between the intensity of fishing activities and the amount of microplastics in ocean  - Microplastics detected even one foot below the surface, which corresponds to about the year 1913 (before the observed plastics were invented) |
+| Remaining questions    |  Effects of microplastics on the ocean ? Amount of microplastic in sediments ?  |
+
+

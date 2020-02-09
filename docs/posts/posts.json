@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-02-09-article6/",
+    "title": "Article 6 : Microplastic pollution found in deep sediments on the ocean floor",
+    "description": "This first article from 2020 talks about the microplastic found in sediments from the China’s Beibu Gulf due to the industrialization and overfishing.",
+    "author": [
+      {
+        "name": "Beaumariage Anaïs",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-09",
+    "categories": [
+      "Microplastic",
+      "Pollution",
+      "Ocean"
+    ],
+    "preview": {},
+    "last_modified": "2020-02-09T16:58:49+01:00"
+  },
+  {
     "path": "posts/2019-11-28-article5/",
     "title": "Article 5 : Microplastic Pollution Found in Snow in the Remotest Corners of the World ",
     "description": "Five article  : Researchers discovered microplastic pollutants in snow located in the Arctic and the Alps.",
@@ -12,10 +31,11 @@
     "date": "2019-11-28",
     "categories": [
       "Microplastic",
-      "Pollution"
+      "Pollution",
+      "Atmosphere"
     ],
     "preview": "posts/2019-11-28-article5/imageintro5.jpg",
-    "last_modified": "2019-11-29T11:49:36+01:00"
+    "last_modified": "2020-02-09T16:58:18+01:00"
   },
   {
     "path": "posts/2019-11-22-article4/",
