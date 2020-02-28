@@ -1,0 +1,53 @@
+---
+title: "Article 7 : You Contain Multitudes of Microplastics"
+description: |
+  This sixth article talks about the amount of microplastics humans have in their body.
+author:
+  - name: Beaumariage Anaïs
+    url: {}
+date: 02-28-2020
+categories:
+  - Microplastic
+  - Pollution
+  - Health
+    
+preview: imageintro7.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Source of the article with publication date and word count
+
+*Source of the article* : [ScientificAmerican](https://www.scientificamerican.com/podcast/episode/you-contain-multitudes-of-microplastics/) (Juni, 13, 2019)  
+*Word count* : 458 words  
+
+# Vocabulary  
+| Word from the text    | Synonym/ definition    | French translation    |
+| --- | --- | --- |
+| gross     | serious   | grave    |
+| equate    | regard as the same    | assimiler    |
+| numerous    | a lot of    | nombreux    |
+| shed    | left    | perdu    |
+| pull together    | bring together    | rassembler    |
+| dairy    | shop   | laiterie    |
+| swallow   | eat    | avaler   |
+
+
+# Analysis table about the study
+|     |     |
+| --- | --- |
+|  Researchers   | Kieran Cox  |
+| Published in ? When ?    | in Environmental Science & Technology and American Scientific on the 13th of Juni 2019   |
+| General topic    | Human consumption of microplastics    |
+| Procedure/ what was examined    |  - Pulling together past scientific literature that calculated the number of microplastics in things we commonly consume, such as in tap and bottled water, sugars, seafood and air. - Analysing them and calculate the amount of microplastic people comsume each year  |
+| Conclusion/discovery    | - Between 74,000 and 121,000 microplastic particles every year consumed by humans.  - Higher number for people drinking bottled water rather than tap water
+  |
+| Remaining questions    |  Is it dangerous for health ? Is all this plastic ingestion safe? Effects of the dose ? |
+
+

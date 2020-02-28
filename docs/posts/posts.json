@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-02-28-article7/",
+    "title": "Article 7 : You Contain Multitudes of Microplastics",
+    "description": "This sixth article talks about the amount of microplastics humans have in their body.",
+    "author": [
+      {
+        "name": "Beaumariage Anaïs",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-28",
+    "categories": [
+      "Microplastic",
+      "Pollution",
+      "Health"
+    ],
+    "preview": "posts/2020-02-28-article7/imageintro7.jpg",
+    "last_modified": "2020-02-28T16:23:41+01:00"
+  },
+  {
     "path": "posts/2020-02-09-article6/",
     "title": "Article 6 : Microplastic pollution found in deep sediments on the ocean floor",
     "description": "This first article from 2020 talks about the microplastic found in sediments from the China’s Beibu Gulf due to the industrialization and overfishing.",
@@ -16,7 +35,7 @@
       "Ocean"
     ],
     "preview": "posts/2020-02-09-article6/imageintro6.jpg",
-    "last_modified": "2020-02-09T20:40:26+01:00"
+    "last_modified": "2020-02-09T20:40:27+01:00"
   },
   {
     "path": "posts/2019-11-28-article5/",
